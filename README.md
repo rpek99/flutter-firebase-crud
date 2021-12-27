@@ -1,4 +1,4 @@
-# mobile_hw2
+# mobile_app
 
 A new Flutter project.
 
